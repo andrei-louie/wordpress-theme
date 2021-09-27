@@ -1,2 +1,3 @@
 # wordpress-theme
 Create a WordPress Theme from the scratch.
+These are the features included: *Registering Custom Menus *Editing the Default WordPress Menus *Registering CPTs, taxonomies *Infinite Scroll *Pagination *Custom Page Templates *Writing WP Queries *Blog Page *Archive *Post Filters with load more *Creating customizer options. *Working with user admin roles *Creating Theme option page *Using slick slider *Creating custom widgets *Adding comment form *Adding Related Posts *Translation *Making Ajax Requests *Using WordPress Rest API *Custom Front Page *Custom Blog page with posts displayed in grid format using bootstrap. *Block Style Variations *Custom Guternberg Blocks *InnerBlocks.
