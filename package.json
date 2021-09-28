@@ -1,0 +1,24 @@
+{
+  "name": "netwarriorservices",
+  "version": "1.0.0",
+  "description": "If you are looking for a perfect design and development website solution for simple or complex business with clean tested code. Then, I can be your solution provider.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrei-louie/wordpress-theme.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.com/andrei-louie/wordpress-theme#readme",
+  "devDependencies": {
+    "@babel/preset-react": "^7.10.4",
+    "node-sass": "^4.14.1",
+    "sass-loader": "^9.0.3",
+    "sass-mq": "^5.0.1"
+  },
+  "dependencies": {}
+}
